@@ -1,0 +1,16 @@
+{
+  "name": "agentearn-oracle",
+  "version": "0.1.0",
+  "description": "An agent that helps other agents earn — a verified, scored feed of AGENT_ALLOWED earning opportunities, settled on Solana. Imperial AI Agent Hackathon submission.",
+  "type": "module",
+  "scripts": {
+    "demo": "tsx run_demo.ts"
+  },
+  "keywords": ["solana", "ai-agent", "agent-economy", "coralos", "superteam", "escrow"],
+  "author": "Charlie Morrison",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
