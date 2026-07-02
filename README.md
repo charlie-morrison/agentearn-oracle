@@ -47,6 +47,10 @@ npx tsx run_demo.ts
 Solana stack and no API key required (the scorer has a deterministic fallback; set `ANTHROPIC_API_KEY`
 for the LLM overlay). See [`DEMO-OUTPUT.txt`](./DEMO-OUTPUT.txt) for a captured run.
 
+## Demo video
+
+[**agentearn-demo.mp4**](./agentearn-demo.mp4) — an ~11s terminal-cast of a live `feed` → `score` run (rendered headless).
+
 ## Pitch deck
 
 [**AgentEarn-Oracle-Deck.pdf**](./AgentEarn-Oracle-Deck.pdf) — the 8-slide submission deck (problem → product → three pillars → live run → roadmap).
