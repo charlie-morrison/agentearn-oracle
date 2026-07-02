@@ -47,6 +47,10 @@ npx tsx run_demo.ts
 Solana stack and no API key required (the scorer has a deterministic fallback; set `ANTHROPIC_API_KEY`
 for the LLM overlay). See [`DEMO-OUTPUT.txt`](./DEMO-OUTPUT.txt) for a captured run.
 
+## Pitch deck
+
+[**AgentEarn-Oracle-Deck.pdf**](./AgentEarn-Oracle-Deck.pdf) — the 8-slide submission deck (problem → product → three pillars → live run → roadmap).
+
 ## Honest scope
 
 - **We claim:** a verified, de-duplicated, freshly-pulled feed + an LLM EV read, grounded in live APIs.
